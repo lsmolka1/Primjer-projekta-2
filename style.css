@@ -1,0 +1,38 @@
+h1{
+    font: bold;
+    text-align: center;
+    font-family: serif;
+    font-style: oblique;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+    border: 1px solid;
+    direction: ltr;
+}
+
+figure{
+    float: right;
+}
+
+footer{
+    float: left;
+}
+
+section{
+    text-align: left;
+}
+
+div{
+    color: black;
+    letter-spacing: normal;
+    text-decoration: black;
+    word-spacing: normal;
+    text-shadow: black;
+}
+
+h2{
+    text-align: center;
+}
+
+aside{
+    float: left;
+}
